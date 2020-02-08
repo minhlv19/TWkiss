@@ -58,7 +58,7 @@ class Main extends Component {
             >
               <View style={styles.SingleRow}>
                 <TouchableOpacity style={styles.imageSinglerow}>
-                  <Image source={require('../../asset/images/Health.png')} style={styles.SingleRowImage}/>
+                  <Image source={require('../../asset/images/PlayandLearn.png')} style={styles.SingleRowImage}/>
                   <Text style={styles.titleSinglerow}>Sức khỏe</Text>
                 </TouchableOpacity>
                 <TouchableOpacity style={styles.imageSinglerow}>
